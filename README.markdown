@@ -6,4 +6,4 @@ This Xcode 4 theme is ported from [Joseph McLaughlin's theme for Xcode 3](https:
 
 To install, copy the file to **~/Library/Developer/Xcode/UserData/FontAndColorThemes** and restart Xcode.
 
-P.S. Don't complain about the Font I wear glasses and I like to use **Menlo 14.0 Bold**.  You can change it in Xcode's Preferences.
+P.S. Don't complain about the Font. I wear glasses and I like to use **Menlo 14.0 Bold**. You can change it in Xcode's Preferences.
